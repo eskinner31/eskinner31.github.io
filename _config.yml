@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Eugene's First Blog
+title: The Adventures of Eugene Skinner
 
 # Short description of your site
-description: I really wish I could find how to serve this up
+description: The outlet for all things interesting, weird, and educational.
 
 # --- Navigation bar options --- #
 
@@ -38,11 +38,11 @@ navbar-links:
 author:
   name: Eugene
   email: "eskinfrn@gmail.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  facebook: eugene.skinner.10  # eg. daattali
+  github: eskinner31    # eg. daattali
+  twitter: weirdkideuge   # eg. daattali
+  linkedin: eugeneskinner   # eg. "pub/dean-attali/8/946/143"
+  # stackoverflow: yourlink  # eg. "3943160/daattali"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -51,12 +51,12 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "eskinner31.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
