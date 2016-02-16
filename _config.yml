@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Eugene's First Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: I really wish I could find how to serve this up
 
 # --- Navigation bar options --- #
 
@@ -30,20 +30,20 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Author's home: "http://deanattali.com"
-  
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Eugene
+  email: "eskinfrn@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
@@ -143,6 +143,6 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-  
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
