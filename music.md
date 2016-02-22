@@ -1,7 +1,5 @@
 ---
 layout: page
 title: Music
-subtitle: Music Life Is
+subtitle: The Groove is strong with this one
 ---
-
-Your resource for all of those sounds that make your booty groove. In short. It's lit fam!
