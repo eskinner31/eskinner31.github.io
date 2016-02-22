@@ -6,6 +6,7 @@ subtitle: The Groove is strong with this one
 
 <div class="posts-list">
   {% for post in site.categories.music %}
+   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -27,6 +28,7 @@ subtitle: The Groove is strong with this one
     </div>
 
    </article>
+   {% endfor %}
   {% endfor %}
 </div>
 
