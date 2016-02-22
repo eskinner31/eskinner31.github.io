@@ -13,4 +13,6 @@ Some other things to know about me.
 - Disk Jockey -> I love playing music
 
 
-If you'd like to reach out to me for any reason (Need a pen pal? Need some life advice? Want me to revolutionize your business?) feel free to reach out to [me](eskinfrn@gmail.com). I'd love to chat!
+If you'd like to reach out to me for any reason (Need a pen pal? Need some life advice? Want me to revolutionize your business?) feel free to reach out to [me](eskinfrn@gmail.com).
+
+I'd love to chat!
