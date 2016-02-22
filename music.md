@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Music
+subtitle: Music Life Is
 ---
 
-Let's see if I can navigate to the music page
+Your resource for all of those sounds that make your booty groove. In short. It's lit fam!
