@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Eugene Skinner
+subtitle: Or why your life is about to get interesting
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Eugene Skinner, and, well, I'm that outlier nature forgot to prepare for.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Some other things to know about me.
+- Budding Developer -> Learn me some code
+- Traceur -> Practice Parkour
+- Disk Jockey -> I love playing music
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you'd like to reach out to me for any reason (Need a pen pal? Need some life advice? Want me to revolutionize your business?) feel free to reach out to [me](eskinfrn@gmail.com). I'd love to chat!

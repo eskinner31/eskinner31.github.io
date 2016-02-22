@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: The Adventures of Eugene Skinner
+title: Call Me Mr. Skinner
 
 # Short description of your site
 description: An outlet for all things interesting, weird, and educational.
@@ -28,9 +28,12 @@ avatar: "/img/euge.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Author's home: "http://eskinner31.github.io"
   Music: "music"
+  Code: "code"
+  About Me: "aboutme"
+  # Author's home: "http://eskinner31.github.io"
+
+
 
 # --- Footer options --- #
 
