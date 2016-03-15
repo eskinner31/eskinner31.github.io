@@ -4,7 +4,7 @@ title: Julius Jetson's Gangsta is that new heat!
 category: music
 tags: [G-House, House, Julius Jetson]
 ---
- <meta property='og:image' content='https://i1.sndcdn.com/artworks-000148226058-i8nti5-t500x500.jpg'/>
+ <meta property='og:image' content='https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xap1/v/t1.0-9/10632859_712458012232974_8762433186193792489_n.png?oh=84ecd528eb97a3af537c8b1b7811dc3b&oe=5755CF2F'/>
 
 # Gangsta
 
