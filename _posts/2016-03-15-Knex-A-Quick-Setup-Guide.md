@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Knex, A Quick Setup Walkthrough
+title: KnexJS, A Quick Setup Walkthrough
 category: code
 tags: [Database, SQL, Postgres, Knex, Akyuna, Javascript]
 ---
