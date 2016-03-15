@@ -3,7 +3,7 @@ layout: post
 title: Julius Jetson's Gangsta is that new heat!
 category: music
 tags: [G-House, House, Julius Jetson]
-fb-img: https://i1.sndcdn.com/artworks-000148226058-i8nti5-t500x500.jpg
+fb-img: http://cdn.onelovemassive.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-4.11.42-PM.png?768d35
 ---
 
 # Gangsta
