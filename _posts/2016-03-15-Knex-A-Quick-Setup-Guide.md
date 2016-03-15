@@ -5,7 +5,7 @@ category: code
 tags: [Database, SQL, Postgres, Knex, Akyuna, Javascript]
 ---
 
-#Knex Basics
+# [Knex Basics](https://github.com/AkyunaAkish/knexBasics)
 
 If you're new to coding in Javascript and working with Postgres then this post is for you. Knex is a simple query builder that helps you quickly set up and manager your SQL database all in Javascript. Set up migrations, seed data, and build queries all with the help of this little library.
 
