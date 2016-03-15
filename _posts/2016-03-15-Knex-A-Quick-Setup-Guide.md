@@ -3,7 +3,6 @@ layout: post
 title: KnexJS, A Quick Setup Walkthrough
 category: code
 tags: [Database, SQL, Postgres, Knex, Akyuna, Javascript]
-permalink: pretty
 ---
 
 # [Knex Basics](https://github.com/AkyunaAkish/knexBasics)
