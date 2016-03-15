@@ -3,8 +3,10 @@ layout: post
 title: Julius Jetson's Gangsta is that new heat!
 category: music
 tags: [G-House, House, Julius Jetson]
+permalink: pretty
 ---
-
+ <meta property='og:image' content='https://i1.sndcdn.com/artworks-000148226058-i8nti5-t500x500.jpg);width:500px;height:500px'/>
+ 
 # Gangsta
 
 Julius Jetson, A D.C. DJ/Producer has been turning up the heat recently. He has been on a wicked rampage of releasing new tracks into the world. Definitely one to watch.
