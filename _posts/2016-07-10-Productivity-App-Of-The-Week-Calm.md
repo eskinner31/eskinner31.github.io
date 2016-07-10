@@ -6,13 +6,13 @@ tags: [Meditation, Productivity, Apps, Focus]
 fb-img: https://lh3.googleusercontent.com/NmWh7Jnm_VxC-SOfT3VhqmnGlc4sMWLJh9SDfBL1hRx7PG2WA0yS8VY7Mhi1m7P7UQ=w300
 ---
 
-#Productivity App of the Week: Calm &trade
+#Productivity App of the Week: Calm™
 
 ###The Problem
 
 Have you ever tried to get started with meditation and failed miserably? If you're like me the answer is a giant YES, and you've failed on multiple occasions. I've
 always found it a bit difficult to started with meditation, because I never really knew if I was doing it right, and I never understood how much time to devote to really
-getting deep in the zone. Luckily, some great team knew that there were a bunch of us groping around in the dark, and decided to create Calm &trade
+getting deep in the zone. Luckily, some great team knew that there were a bunch of us groping around in the dark, and decided to create Calm™
 
 ###The Benefits
 
@@ -25,12 +25,12 @@ I honestly cannot say enough about the benefits I have noticed from meditating.
 
 ###Getting Started
 
-Calm &trade does an excellent job leading you through your first week of meditation. They have a 7 day intro session, that sits you down for 10 minutes and brings you
+Calm™ does an excellent job leading you through your first week of meditation. They have a 7 day intro session, that sits you down for 10 minutes and brings you
 through a guided meditation. It's literally that simple. For those of you who like to track stats and challenge yourself, they have a streak counter, so you can work
 on maintaining a streak as you meditate. What's really cool, is that they have a web app, and a mobile app so wherever you are, and whenever you feel as though you might
 have some private time, you can get in your meditation for the day. It's really that simple.
 
-If you'd like to get started, I would suggest that you head over to the App Store, Or the Play Store and download the app. Or, head over to the [Calm](www.calm.com) homepage
+If you'd like to get started, I would suggest that you head over to the App Store, Or the Play Store and download the app. Or, head over to the [Calm](www.calm.com)™ homepage
 and get started.
 
 Unfortunately, I have yet to decide whether or not I will pay money for the host of other guided meditation's they have. I have played with the idea before, and it's honestly
