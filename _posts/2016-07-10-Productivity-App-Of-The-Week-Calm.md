@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Productivity App of the Week Calm
+title: Calm, Productivity App of the Week
 category: stuff
-tags: [Meditation, Productivity, Apps, Focus]
+tags: [Meditation, Productivity, Apps]
 ---
 
 # Productivity App of the Week: Calm™
