@@ -30,6 +30,7 @@ navbar-links:
   Home: ""
   Music: "music"
   Code: "code"
+  Stuff: "stuff"
   About Me: "aboutme"
   # Author's home: "http://eskinner31.github.io"
 
@@ -41,7 +42,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Eugene
-  email: "eskinfrn@gmail.com"
+  email: "skinnerthedeveloper@gmail.com"
   facebook: eugene.skinner.10  # eg. daattali
   github: eskinner31    # eg. daattali
   twitter: weirdkideuge   # eg. daattali
@@ -73,7 +74,7 @@ url-pretty: "eskinner31.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Colorado"
+timezone: "America/Norfolk"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
