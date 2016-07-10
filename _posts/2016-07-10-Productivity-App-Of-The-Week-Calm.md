@@ -3,7 +3,7 @@ layout: post
 title: Productivity App of the Week: Calm
 category: stuff
 tags: [Meditation, Productivity, Apps, Focus]
-fb-img: https://lh3.googleusercontent.com/NmWh7Jnm_VxC-SOfT3VhqmnGlc4sMWLJh9SDfBL1hRx7PG2WA0yS8VY7Mhi1m7P7UQ=w300
+fb-img: http://www.wardrobeworld.com.au/wp-content/uploads/2015/04/calm-app.jpg
 ---
 
 # Productivity App of the Week: Calm™
